@@ -17,4 +17,4 @@ autoconf
 
 # usually build in bin directory at same level at current (src) directory
 #
-# ./configure --prefix=`pwd` --with-samtools=/software/solexa/bin/aligners/samtools/current --with-libmaus=/software/hpag/libmaus/0.0.33
+# ./configure --prefix=`pwd` --with-samtools=/software/solexa/bin/aligners/samtools/current --with-libmaus=/software/solexa/src/libmaus
